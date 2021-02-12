@@ -140,10 +140,10 @@ function ProcessTallyData() {
 	}
 
 	if (mode_program) {
-		let successBool = window.navigator.vibrate(400);
+		//let successBool = window.navigator.vibrate(400);
 	}
 	else if (mode_preview) {
-		let successBool = window.navigator.vibrate(100, 30, 100, 30, 100);
+		//let successBool = window.navigator.vibrate(100, 30, 100, 30, 100);
 	}
 }
 
