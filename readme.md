@@ -306,3 +306,5 @@ The console/terminal output running the server process is also verbose and will 
 
 # Improvements and Suggestions
 I welcome all improvements and suggestions. You can submit issues and pull requests, or contact me through [my blog](http://www.techministry.blog).
+
+Thanks www.openode.io for hosting.
